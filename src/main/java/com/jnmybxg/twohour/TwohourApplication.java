@@ -11,7 +11,6 @@ public class TwohourApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TwohourApplication.class, args);
-        System.out.print("d");
     }
 
 }
